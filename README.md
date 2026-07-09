@@ -37,10 +37,14 @@ Herramientas
 Python, Pandas, Numpy, Seaborn, Matplotlib, Jupyter, Notebook
 
 Estructura del repositorio
-S7_ConnectaTel_completo.ipynb ---- Notebook con el análisis completo
+telecom-analysis.ipynb ----------- Notebook con el análisis completo
+
 plans.csv ------------------------ Catálogo de planes
+
 users_latam.csv ------------------ Datos de clientes
+
 usage.csv ------------------------ Detalle de uso real
+
 README.md
 
 Ejecución
